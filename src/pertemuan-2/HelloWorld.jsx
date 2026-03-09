@@ -8,6 +8,7 @@ export default function HelloWorld(){
         <div>
             <h1>Hello World</h1>
             <p>Selamat Belajar ReactJs</p>
+             <p>Selamat Belajar ReactJs</p>
             <GreetingBinjai/>
             <QuoteText/>
 
