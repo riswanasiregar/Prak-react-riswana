@@ -1,6 +1,6 @@
 import "./Custom.css";
 
-
+//github
 function Foto() {
   return (
     <div className="foto-container">
